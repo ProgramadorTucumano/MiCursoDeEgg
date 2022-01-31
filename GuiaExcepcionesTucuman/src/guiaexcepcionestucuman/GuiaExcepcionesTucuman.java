@@ -3,6 +3,6 @@ package guiaexcepcionestucuman;
  */
 public class GuiaExcepcionesTucuman {
     public static void main(String[] args) {
-        System.out.println("hola mundo, soy Roxania y Nahuel");
+        System.out.println("hola mundo, somos Roxania, Nahuel y Laura");
  }
 }
